@@ -6,6 +6,9 @@
  * Version: 1.0.35
  */
 
+// Stats Plugin
+// by Raikkonen
+
 #include <set>
 #include <FLHook.h>
 #include <plugin.h>
