@@ -50,6 +50,16 @@ FLHook(**_8.0.0_**)
 
 ### 🈴ВАЖНО: МНЕ НИКТО НЕ ПОМОГАЛ, ВСЕ ОТКАЗАЛИСЬ ИЛИ ПРОИГНОРИРОВАЛИ🈴
 
+- Код не решает главной проблемы в реверс-инжиниринге для новичка - понимания того как это делается. Мои сообщения были проигнорированы по национальному признаку.
+
+## ⚠️ Признательность
+
+> [!NOTE]
+> Этот проект основан на работе сообщества фрилансеров.
+> Переработан и интегрирован в экосистему Lizerium.
+>
+> Авторы: [`Aingar`](https://github.com/Aingar), [`dsyalex`](https://github.com/dsyalex), [`araxestroy`](https://github.com/araxestroy), [`dd84ai`](https://github.com/dd84ai), [`zibbizor`](https://github.com/zibbizor), [`dsydalziel`](https://github.com/dsydalziel), [`lnvoker`](https://github.com/lnvoker), [`Lazrius`](https://github.com/Lazrius), [`danswann`](https://github.com/danswann), [`VibrantClouds`](https://github.com/VibrantClouds), [`PhoenixxClaw`](https://github.com/PhoenixxClaw), [`ItsRaisu`](https://github.com/ItsRaisu), [`JohnWildkins`](https://github.com/JohnWildkins), [`oliverpechey`](https://github.com/oliverpechey)
+
 - Этот проект настроен для работы в **Visual Studio 2022 Professional**.
 - Версия **Windows SDK - 8.1**.
 - Компилятор - **VC141**.

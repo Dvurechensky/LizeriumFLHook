@@ -59,7 +59,15 @@ It includes a **client hook** and a large number of plugins built on top of it.
 
 ## 🈴 IMPORTANT 🈴
 
-> No one helped me with this. Everyone either refused or ignored it.
+> No one helped me with this. Everyone either refused or ignored it. The code doesn't solve the main problem in reverse engineering for beginners—understanding how it's done. My messages were ignored due to nationality.
+
+## Credits
+
+> [!NOTE]
+> This project is based on work from the Freelancer community.
+> Reworked and integrated into Lizerium ecosystem.
+>
+> Contributors: [`Aingar`](https://github.com/Aingar), [`dsyalex`](https://github.com/dsyalex), [`araxestroy`](https://github.com/araxestroy), [`dd84ai`](https://github.com/dd84ai), [`zibbizor`](https://github.com/zibbizor), [`dsydalziel`](https://github.com/dsydalziel), [`lnvoker`](https://github.com/lnvoker), [`Lazrius`](https://github.com/Lazrius), [`danswann`](https://github.com/danswann), [`VibrantClouds`](https://github.com/VibrantClouds), [`PhoenixxClaw`](https://github.com/PhoenixxClaw), [`ItsRaisu`](https://github.com/ItsRaisu), [`JohnWildkins`](https://github.com/JohnWildkins), [`oliverpechey`](https://github.com/oliverpechey)
 
 ---
 
